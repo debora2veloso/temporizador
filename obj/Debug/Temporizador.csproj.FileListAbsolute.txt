@@ -1,0 +1,9 @@
+C:\Users\ASUS\Desktop\Temporizador-master\bin\Debug\Temporizador.exe.config
+C:\Users\ASUS\Desktop\Temporizador-master\bin\Debug\Temporizador.exe
+C:\Users\ASUS\Desktop\Temporizador-master\bin\Debug\Temporizador.pdb
+C:\Users\ASUS\Desktop\Temporizador-master\obj\Debug\Temporizador.csprojAssemblyReference.cache
+C:\Users\ASUS\Desktop\Temporizador-master\obj\Debug\Temporizador.Form1.resources
+C:\Users\ASUS\Desktop\Temporizador-master\obj\Debug\Temporizador.Properties.Resources.resources
+C:\Users\ASUS\Desktop\Temporizador-master\obj\Debug\Temporizador.csproj.GenerateResource.cache
+C:\Users\ASUS\Desktop\Temporizador-master\obj\Debug\Temporizador.exe
+C:\Users\ASUS\Desktop\Temporizador-master\obj\Debug\Temporizador.pdb
